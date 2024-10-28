@@ -1,0 +1,7 @@
+C:\Users\Steph\Documents\Console Alpha\ConsoleAlphaV2\Console Alpha V2\bin\Debug\Console Alpha V2.exe.config
+C:\Users\Steph\Documents\Console Alpha\ConsoleAlphaV2\Console Alpha V2\bin\Debug\Console Alpha V2.exe
+C:\Users\Steph\Documents\Console Alpha\ConsoleAlphaV2\Console Alpha V2\bin\Debug\Console Alpha V2.pdb
+C:\Users\Steph\Documents\Console Alpha\ConsoleAlphaV2\Console Alpha V2\obj\Debug\Console Alpha V2.csproj.AssemblyReference.cache
+C:\Users\Steph\Documents\Console Alpha\ConsoleAlphaV2\Console Alpha V2\obj\Debug\Console Alpha V2.csproj.CoreCompileInputs.cache
+C:\Users\Steph\Documents\Console Alpha\ConsoleAlphaV2\Console Alpha V2\obj\Debug\Console Alpha V2.exe
+C:\Users\Steph\Documents\Console Alpha\ConsoleAlphaV2\Console Alpha V2\obj\Debug\Console Alpha V2.pdb
